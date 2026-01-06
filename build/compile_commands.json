@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/bradley3969/Desktop/myCpp/build",
+  "command": "clang++ -g -std=gnu++20 -o CMakeFiles/myCpp.dir/main.cpp.o -c /home/bradley3969/Desktop/myCpp/main.cpp",
+  "file": "/home/bradley3969/Desktop/myCpp/main.cpp",
+  "output": "/home/bradley3969/Desktop/myCpp/build/CMakeFiles/myCpp.dir/main.cpp.o"
+}
+]
