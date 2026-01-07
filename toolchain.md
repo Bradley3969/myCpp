@@ -1,0 +1,5 @@
+- OS: Ubuntu 22.04
+- Compiler: clang++ 16
+- CMake: ≥3.16
+- Build system: Ninja
+- Graphics: OpenGL 4.6 + GLFW + GLAD

@@ -7,23 +7,27 @@
 `~/Desktop/myCpp`
 ```bash
 rm -rf build
-To configure (generate build files) at:
+************To configure (generate build files) at:
 ~/Desktop/myCpp
 
 bash
 Copy code
 cmake -S . -B build -G Ninja
-To build at:
+cmake -S . -B build -G Ninja -DCMAKE_CXX_COMPILER=clang++ for my comp
+
+**********To build at:
 ~/Desktop/myCpp
 
 bash
 Copy code
 cmake --build build
-To run at project root:
+
+***********To run at project root:
 ~/Desktop/myCpp
 
 bash
 Copy code
+*********use this one dumby
 ./build/myCpp
 To run from build directory:
 ~/Desktop/myCpp/build
